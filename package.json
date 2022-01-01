@@ -1,12 +1,12 @@
 {
   "name": "pathfinding",
   "version": "1.0.0",
-  "description": "",
+  "description": "Some algorithm, who find path out of maze",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["JS", "pathFinder"],
+  "author": "OneSadDev <onesaddev@mail.ru>",
   "license": "ISC"
 }
